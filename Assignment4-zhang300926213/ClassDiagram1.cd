@@ -14,5 +14,12 @@
       <FileName>GiantPlanet.cs</FileName>
     </TypeIdentifier>
   </Class>
+  <Class Name="Assignment4_zhang300926213.TerrestrialPlanet">
+    <Position X="4.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAQAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TerrestrialPlanet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>

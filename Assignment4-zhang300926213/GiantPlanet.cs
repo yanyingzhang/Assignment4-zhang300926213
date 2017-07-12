@@ -33,7 +33,7 @@ namespace Assignment4_zhang300926213
         public GiantPlanet(string name, double diameter, double mass, string type)
             :base(name,diameter,mass)
         {
-
+            this._type = type;
         }
 
         // PRIVATE METHODS
