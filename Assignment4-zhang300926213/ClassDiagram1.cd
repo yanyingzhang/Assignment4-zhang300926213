@@ -21,7 +21,7 @@
       <FileName>TerrestrialPlanet.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Interface Name="Assignment4_zhang300926213.IHasMoon">
+  <Interface Name="Assignment4_zhang300926213.IHasMoons">
     <Position X="5.5" Y="0.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
@@ -31,7 +31,7 @@
   <Interface Name="Assignment4_zhang300926213.IHasRings">
     <Position X="5.5" Y="2.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>IHasRings.cs</FileName>
     </TypeIdentifier>
   </Interface>
