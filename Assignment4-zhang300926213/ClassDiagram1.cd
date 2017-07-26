@@ -22,21 +22,21 @@
     </TypeIdentifier>
   </Class>
   <Interface Name="Assignment4_zhang300926213.IHasMoons">
-    <Position X="5.5" Y="0.75" Width="1.5" />
+    <Position X="6.25" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>IHasMoon.cs</FileName>
     </TypeIdentifier>
   </Interface>
   <Interface Name="Assignment4_zhang300926213.IHasRings">
-    <Position X="5.5" Y="2.5" Width="1.5" />
+    <Position X="6.25" Y="2.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>IHasRings.cs</FileName>
     </TypeIdentifier>
   </Interface>
   <Interface Name="Assignment4_zhang300926213.IHabitable">
-    <Position X="8" Y="2" Width="1.5" />
+    <Position X="6.25" Y="4" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>IHabitable.cs</FileName>

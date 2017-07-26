@@ -13,7 +13,7 @@ namespace Assignment4_zhang300926213
 {
     public abstract class Planet
     {
-        // PRIVATE PROPERTIES - 7 fields
+        // PRIVATE INSTANCE VARIABLES - 7 fields
         private double _diameter;
         private double _mass;
         private int _moonCount;
@@ -52,7 +52,7 @@ namespace Assignment4_zhang300926213
         //PUBLIC METHODS
         public override string ToString()
         {
-            return string.Format("Name: {0}, Diameter: {1}, Mass: {2}",Name,Diameter,Mass);
+            return string.Format("Name: " + Name + "; Diameter: " + Diameter + "; Mass: " + Mass);
         }
     }
 }
