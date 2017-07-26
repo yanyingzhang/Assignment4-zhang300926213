@@ -8,7 +8,7 @@ using System.Threading.Tasks;
  * Name: Yanying Zhang - 300926213
  * Date: July 11, 2017
  * Description: COMP123 - Assignment 4
- * Version: 0.2 - Added objects to the program class
+ * Version: 0.3 - Added WaitForAnyKey method
  */
 namespace Assignment4_zhang300926213
 {
@@ -22,6 +22,13 @@ namespace Assignment4_zhang300926213
             TerrestrialPlanet terrestrialPlanet = new TerrestrialPlanet("Earth", 60, 9000, true);
             Console.WriteLine(terrestrialPlanet.ToString());
 
+            WaitForAnyKey();
+        }
+
+        public static void WaitForAnyKey()
+        {
+            Console.WriteLine("Please press any key to continue... ");
+            
         }
     }
 }
