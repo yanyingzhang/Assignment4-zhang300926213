@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 /*
  * Name: Yanying Zhang - 300926213
- * Date: July 11, 2017
+ * Date: July 26, 2017
  * Description: COMP123 - Assignment 4
  * Version: 0.3 - Added WaitForAnyKey method
  */
@@ -25,10 +25,10 @@ namespace Assignment4_zhang300926213
             WaitForAnyKey();
         }
 
-        public static void WaitForAnyKey()
+        static void WaitForAnyKey()
         {
-            Console.WriteLine("Please press any key to continue... ");
-            
+            Console.WriteLine("Press any key to continue... ");
+            Console.ReadKey();
         }
     }
 }
