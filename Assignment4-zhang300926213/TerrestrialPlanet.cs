@@ -9,7 +9,7 @@ using System.Text;
  * Description: COMP123 - This is the TerrestrialPlanet class 
  * It is the subclass of the Planet Abstract class
  * It also implement both the IHasMoons and IHabitable interfaces
- * Version: 0.3 - Modified the TerrestrialPlanet Class
+ * Version: 0.4 - Modified the TerrestrialPlanet Class
  */
 namespace Assignment4_zhang300926213
 {
@@ -17,31 +17,6 @@ namespace Assignment4_zhang300926213
     {
         // PRIVATE PROPERTIES
         private bool _oxygen;
-        private bool _hasMoon;
-        private bool _habitable;
-
-        bool IHasMoons.HasMoons
-        {
-            get
-            {
-                return this._hasMoon;
-            }
-            set
-            {
-                this._hasMoon = value;
-            }
-        }
-        bool IHabitable.Habitable
-        {
-            get
-            {
-                return this._habitable;
-            }
-            set
-            {
-                this._habitable = value;
-            }
-        }
 
         // PUBLIC PROPERTIES
 
