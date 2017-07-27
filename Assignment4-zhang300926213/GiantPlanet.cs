@@ -9,7 +9,7 @@ using System.Text;
  * Description: COMP123 - This is the GiantPlanet class
  * It is the subclass of the Planet Abstract class
  * It also implement both the IHasMoons and IHasRings interface
- * Version: 0.2 - Modified the GiantPlanet Class
+ * Version: 0.3 - Modified the GiantPlanet Class
  */
 namespace Assignment4_zhang300926213
 {
