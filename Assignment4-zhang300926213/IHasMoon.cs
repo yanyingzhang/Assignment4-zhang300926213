@@ -13,6 +13,6 @@ namespace Assignment4_zhang300926213
 {
     public interface IHasMoons
     {
-        bool HasMoons { get; set; }
+        bool HasMoons();
     }
 }

@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
   <Class Name="Assignment4_zhang300926213.Planet">
-    <Position X="0.75" Y="0.5" Width="1.5" />
+    <Position X="1" Y="1.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQBIAAgAAAAAEAEAAAACAQBACAAAAAAEAABAACAAQA=</HashCode>
       <FileName>Planet.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Assignment4_zhang300926213.GiantPlanet">
-    <Position X="3.25" Y="0.5" Width="1.5" />
+    <Position X="3.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAABAAAAAQAIAAABAAAAAACAAAIABAAAAAAAAA=</HashCode>
       <FileName>GiantPlanet.cs</FileName>
@@ -16,7 +16,7 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="Assignment4_zhang300926213.TerrestrialPlanet">
-    <Position X="3.25" Y="3" Width="1.5" />
+    <Position X="3.5" Y="4.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>QAAAAAAABAIAAAQAIAAABAAAAAAAAAAAABAAAAAAAAA=</HashCode>
       <FileName>TerrestrialPlanet.cs</FileName>

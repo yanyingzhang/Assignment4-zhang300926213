@@ -28,7 +28,7 @@ namespace Assignment4_zhang300926213
         static void WaitForAnyKey()
         {
             Console.WriteLine("Press any key to continue... ");
-            Console.ReadKey();
+            Console.ReadKey(); // source from: https://stackoverflow.com/questions/11512821/how-to-stop-c-sharp-console-applications-from-closing-automatically
         }
     }
 }

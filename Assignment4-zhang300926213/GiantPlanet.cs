@@ -9,7 +9,7 @@ using System.Text;
  * Description: COMP123 - This is the GiantPlanet class
  * It is the subclass of the Planet Abstract class
  * It also implement both the IHasMoons and IHasRings interface
- * Version: 0.3 - Modified the GiantPlanet Class
+ * Version: 0.4 - Modified the GiantPlanet Class
  */
 namespace Assignment4_zhang300926213
 {
@@ -17,32 +17,9 @@ namespace Assignment4_zhang300926213
     {
         // PRIVATE PROPERTIES
         private string _type;
-        private bool _hasMoon;
-        private bool _hasRings;
 
         // PUBLIC PROPERTIES
-        bool IHasMoons.HasMoons
-        {
-            get
-            {
-                return this._hasMoon;
-            }
-            set
-            {
-                this._hasMoon = value;
-            }
-        }
-        bool IHasRings.HasRings
-        {
-            get
-            {
-                return this._hasRings;
-            }
-            set
-            {
-                this._hasRings = value;
-            }
-        }
+
         // CONSTRUCTOR
 
         /// <summary>

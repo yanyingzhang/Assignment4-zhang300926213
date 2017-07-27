@@ -13,6 +13,6 @@ namespace Assignment4_zhang300926213
 {
     public interface IHabitable
     {
-        bool Habitable { get; set; }
+        bool Habitable();
     }
 }

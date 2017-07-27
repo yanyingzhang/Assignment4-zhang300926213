@@ -13,6 +13,6 @@ namespace Assignment4_zhang300926213
 {
     public interface IHasRings
     {
-        bool HasRings { get; set; }
+        bool HasRings();
     }
 }
